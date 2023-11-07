@@ -1,7 +1,7 @@
 # Makefile to run your-app.jar
 
 # Variables
-JAR_FILE := your-app.jar
+JAR_FILE := jflap.jar
 
 .PHONY: run clean
 
